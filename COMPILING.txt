@@ -1,0 +1,31 @@
+Compiling Orb
+----------------------------
+Before you can compile Orb you needed to ensure Qt (version 3.2.x or later) is installed. You can then compile Orb by going to the directory
+
+"Orb/snappea/code"
+
+and entering the command
+
+"make".
+
+This will build the 'Orb' library.  As the directory names suggests this is just a modified SnapPea kernel.  The code in here is pretty hacky and a lot of it is redundant.  You will probably receive a lot of warnings like "unused variable" but nothing major.  Now go to the directory
+
+"Orb"
+
+and enter the command
+
+"qmake -o Makefile Orb.pro".
+
+This should build a Makefile for Orb's GUI.  Finally type
+
+"make".
+
+This builds the GUI for Orb. (This uses the Qt library so if Qt isn't installed properly you'll find out here.)  If all goes well the build will be complete and you can run Orb entering
+
+"open Orb.app".
+
+You can avoid using the terminal to run Orb by keeping its icon in the dock.
+
+16 Nov 2006
+Damian Heard
+damian.heard@gmail.com

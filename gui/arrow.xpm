@@ -1,0 +1,30 @@
+/* XPM */
+static const char *arrow_xpm[] = {
+/* width height ncolors chars_per_pixel */
+"7 22 2 1",
+/* colors */
+"A s bg c None",
+"B c #000000000000",
+/* pixels */
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AABAAAA",
+"AABBAAA",
+"AABBBAA",
+"AABBBAA",
+"AABBAAA",
+"AABAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA",
+"AAAAAAA"};
