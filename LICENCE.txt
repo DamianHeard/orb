@@ -1,6 +1,6 @@
 ORB is a computer program that can find hyperbolic structures on a large
 class of hyperbolic 3-orbifolds and 3-manifolds.
-Copyright (C) 2006  Damian Heard
+Copyright (C) 2006-2013  Damian Heard
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
